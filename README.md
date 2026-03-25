@@ -3,6 +3,7 @@
 # Software Versions
 
 [V1.260319 - COLORado PXL Curve 1](https://github.com/Chauvet-Pro/COLORADOPXLCURVE1/blob/977f6ec10d6e1a96752c7c991dfe1b9a3dc7f104/Firmware/V1.260319.zip)
+ 
  *Changes the menu layout for the upcoming NFC app:*
 - Fixes issues with strobe channel in CW / WW LEDs
 - Improves random strobe with CW / WW LEDs

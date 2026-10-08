@@ -2,7 +2,14 @@
 
 # Software Versions
 
+[V1.00.011 - COLORado PXL Curve 1](https://github.com/Chauvet-Pro/COLORADOPXLCURVE1/blob/6b452168db5a294d09fd308c14ff1d4afdf994ae/Firmware/V1.00.011.zip) 
+
+- Enables NFC Functions
+- Updates Strobe Features to improve performance
+- Thermal Information Update
+
 [V1.260724 - COLORado PXL Curve 1](https://github.com/Chauvet-Pro/COLORADOPXLCURVE1/blob/ac7d77f00e2108a85ad816a57276258b8d85bd53/Firmware/V1.00.003-260724-2.zip)
+
 - Activates NFC functionality and conforms to the new display standard.
 
 [V1.260319 - COLORado PXL Curve 1](https://github.com/Chauvet-Pro/COLORADOPXLCURVE1/blob/977f6ec10d6e1a96752c7c991dfe1b9a3dc7f104/Firmware/V1.260319.zip)
@@ -16,8 +23,4 @@
 
 - Initial software release
 
-[V1.00.011 - COLORado PXL Curve 1](https://github.com/Chauvet-Pro/COLORADOPXLCURVE1/blob/6b452168db5a294d09fd308c14ff1d4afdf994ae/Firmware/V1.00.011.zip) 
 
-- Enables NFC Functions
-- Updates Strobe Features to improve performance
-- Thermal Information Update
